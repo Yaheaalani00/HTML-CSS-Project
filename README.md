@@ -21,3 +21,7 @@ See you soon!
 
 Essence Phones
 
+
+## Credits ##
+The code content to make the social media links was taken from the CI Love Running project.
+
