@@ -64,8 +64,22 @@ li > a {
 }
 
 #about {
-    background-color: lightgreen;
+    background-image: url(images/bulb.webp);
     font-weight: bold;
     font-family: "oswald", sans-serif;
     padding-top: 1px;
+    color: white;
 }
+
+#form {
+    background-image: url(images/galaxy.jfif);
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+
+
