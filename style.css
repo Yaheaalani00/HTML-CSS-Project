@@ -16,12 +16,12 @@ body {
     justify-content: space-between;
     background-color: black;
     color: white;
-    background-image: url('https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url(images/pexels-photo-3617500.webp);
     
 }
 
-#logo {
-    font-size: 1.5rem;
+h1 {
+    font-size: 2rem;
     margin: .5rem;
 }
 
@@ -43,7 +43,7 @@ li > a {
 #phone {
     font-family: "Oswald", sans-serif;
     font-size: 15px;
-    background-image: url('https://images.pexels.com/photos/3747142/pexels-photo-3747142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url(images/pexels-photo-3747142.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
