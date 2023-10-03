@@ -55,41 +55,59 @@ li > a {
     position: absolute;  
     color: white;  
     text-align: center;
+    font-family: "oswald",sans-serif;
 }
 
 .info {
     background-color: rgb(41, 41, 41);
     color: white;
     text-align: center;
-    width: 100%;
+    width: 99%;
     padding: 5px;
-    margin-top: 100px;
+    margin-top: 200px;
+    font-family: "oswald", sans-serif;
+    font-size: 20px;
 }
 
 .phone {
     background-color: rgb(41, 41, 41);
     color: white;
     text-align: center;
-    width: 100%;
+    width: 99%;
     padding: 5px;
-    margin-top: 50px;
+    margin-top: 200px;
+    font-family: "oswald", sans-serif;
+    font-size: 20px;
 }
 
 .about {
     background-color: rgb(41, 41, 41);
     color: white;
     text-align: center;
-    width: 100%;
+    width: 99%;
     padding: 5px;
-    margin-top: 50px;
+    margin-top: 200px;
+    font-size: 20px;
+    
 }
 
 #form {
     text-align: center;
     background-color: black;
     color: white;
-    margin-top: 50px;
-    width: 100%;
+    margin-top: 200px;
+    width: 99%;
+    font-family: "oswald", sans-serif;
+    font-size: 20px;
+}
+
+.contact {
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    width: 99%;
+    margin-top: -19px;
+    bottom: 30px;
 }
 
 .socials {
@@ -97,5 +115,6 @@ li > a {
     color: white;
     background-color: black;
     margin-top: -19px;
-    width: 100%;
+    width: 99%;
+    font-family: "oswald", sans-serif;
 }
