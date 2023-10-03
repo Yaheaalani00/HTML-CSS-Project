@@ -6,23 +6,9 @@ html {
     scroll-behavior: smooth;
 }
 
-.bg {
-    position: fixed;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-}
-
-.bg img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    min-width: 50%;
-    min-height: 50%;
+img {
+    width: 100%;
+    
 }
 
 body {
@@ -66,6 +52,9 @@ li > a {
 
 #home > h1 {
     font-size: 40px;
+    position: absolute;  
+    color: white;  
+    text-align: center;
 }
 
 .info {
@@ -74,6 +63,7 @@ li > a {
     text-align: center;
     width: 100%;
     padding: 5px;
+    margin-top: 100px;
 }
 
 .phone {
