@@ -88,6 +88,7 @@ I confirmed that the fonts and colors chose were easy to read and accessible by 
 
 ## Credits ##
 The code content to make the social media links was taken from the CI Love Running project.
+I used the Love running project to help me with the sig up form.
 
 ## Media ##
 All images were taken from [pexel](https://www.pexels.com/).
