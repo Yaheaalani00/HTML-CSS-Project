@@ -67,6 +67,7 @@ li > a {
     margin-top: 200px;
     font-family: "oswald", sans-serif;
     font-size: 20px;
+    
 }
 
 .phone {
@@ -78,6 +79,7 @@ li > a {
     margin-top: 200px;
     font-family: "oswald", sans-serif;
     font-size: 20px;
+    
 }
 
 .about {
@@ -88,7 +90,7 @@ li > a {
     padding: 5px;
     margin-top: 200px;
     font-size: 20px;
-    
+   
 }
 
 #form {
@@ -108,6 +110,7 @@ li > a {
     width: 99%;
     margin-top: -19px;
     bottom: 30px;
+    text-align: center;
 }
 
 .socials {
