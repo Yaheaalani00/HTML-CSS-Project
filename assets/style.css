@@ -58,7 +58,7 @@ li {
 }
 /* Navbar links style */
 li > a {
-    color: black;
+    color: white;
     text-decoration: none;
     font-family: "oswald", sans-serif;
 }
@@ -183,44 +183,49 @@ h2 {
 @media  screen and (max-width:320px) {
 
     .logo {
-        font-size: 30px;
-        margin-top: 23px;
-        }
-    
-
-    .aboutus {
-        margin-left: -450px;
-    }
-    
-}
-
-@media  screen and (max-width:768px) {
-    .about {
-        margin-left: 450px;
-        margin-top: -80vw;
+        font-size: 35px;
+        margin-right: 5px;
+        margin-top: 30px;
     }
 
-    
+    #home > h1 {
+        font-size: 40px;
+        right: 23vw;
+        top: 5vw;
+    }
+
+    .info {
+        font-size: 15px;
+        right: 28vw;
+    }
+
     .phone {
-        bottom: 40vw;
-        right: 10vw;
-        padding: 2px;
-    }
-    
-    h1 {
-        font-size: 45px;
-        bottom: 5vw;
-        margin-right: -50vw;
+        font-size: 15px;
+        left: 5vw;
+        bottom: 90vw;
     }
 
-    .logo {
-        margin-left: 30px;   
+    .about {
+        top: 60vw;
+        right: 117vw;
+        font-size: 15px;
+        width: 50%;
+        margin-left: 450px;
+        margin-bottom: 120vw;
     }
 
-    .nav {
-        text-align: center;
-        font-size: 30px;
+    #form {
+        top: -40vw;
+        width: 200px;
+        left: 15px;
+        font-size: 20px;
     }
+
+    .socials {
+        left: -10vw;
+    }
+
 
     
 }
+
