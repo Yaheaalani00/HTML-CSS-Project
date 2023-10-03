@@ -23,6 +23,7 @@ html {
     margin: auto;
     min-width: 50%;
     min-height: 50%;
+    background-image: url(assets/images/PHONE.jpeg);
 }
 
 body {
@@ -63,7 +64,6 @@ li > a {
     font-family: "oswald", sans-serif;
 }
 
-/* Home Page Picture */
 
 #home {
     font-family: "oswald", sans-serif;
@@ -73,7 +73,6 @@ li > a {
     width: 60%;
 }
 
-/* Home Page Text on picture*/
 #home > h1 {
     position:relative;
     color: black;
@@ -86,13 +85,7 @@ li > a {
     
 }
 
-.image {
-    width: 52%;
-    position: absolute;
-    height: 850px;
-    top: 3.3vw;
     
-}
 /* Information on home page*/
 .info {
     position: relative;
